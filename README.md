@@ -15,10 +15,10 @@ sou um jovem programador brasileiro.
   ##
  
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@mentemaker/featured">
+  <a href="https://www.youtube.com/@busologobrian/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
   </a>
-  <a href="https://www.instagram.com/p/CwEdLL4te3W/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
+  <a href="https://www.instagram.com/brian_lewis_2?igsh=aHFwOHIyOHlucDV4">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
   <a href="https://replit.com/@MenteMaker">
@@ -27,7 +27,7 @@ sou um jovem programador brasileiro.
   <a href="https://discord.gg/maxJ3H3z">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
   </a>
-  <a href="https://chat.whatsapp.com/FGkU80peYjMFubHPiNScSm">
+  <a href="https://chat.whatsapp.com/EQ4pZ9smhLHE6iSdj5emPL">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
   </a>
 </div>
