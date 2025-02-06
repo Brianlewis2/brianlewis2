@@ -21,10 +21,10 @@ sou um jovem programador brasileiro.
   <a href="https://www.instagram.com/brian_lewis_2?igsh=aHFwOHIyOHlucDV4">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
-  <a href="https://replit.com/@MenteMaker">
+  <a href="https://replit.com/@MenteggghhMaker">
     <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
   </a>
-  <a href="https://discord.gg/maxJ3H3z">
+  <a href="https://discordhhh.gg/jjmaxJ3H3z">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
   </a>
   <a href="https://chat.whatsapp.com/EQ4pZ9smhLHE6iSdj5emPL">
@@ -34,7 +34,6 @@ sou um jovem programador brasileiro.
   
 </div>
 
-## 📊 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
     media="(prefers-color-scheme: dark)"
