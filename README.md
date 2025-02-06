@@ -76,20 +76,20 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
 
 <div >
-  <!-- Link Mente Maker -->
-  <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
-    🌏 Mente Maker
+  <!-- Link brian lewis -->
+  <a href="https://www.brianlewis.shop/" target="_blank" style="font-size: 24px; font-weight: bold;">
+    🌏 brian lewis 
   </a> <br>
-   <a href="https://github.com/Makerjunior/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
+   <a href="https://github.com/brianlewis2/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
       🐍 Python Online
     </a> <br>
-    <a href="https://github.com/Makerjunior/JavascriptOnline" target="_blank" style="font-size: 24px; font-weight: bold;">
+    <a href="https://github.com/brianlewis2/JavascriptOnline" target="_blank" style="font-size: 24px; font-weight: bold;">
       🧑‍💻 Javascript Online
     </a> <br>
-    <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
+    <a href="https://github.com/brianlewis2/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
       🎮 Jogo Snake
     </a> <br>
-    <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
+    <a href="https://github.com/brianlewis2/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
       🕹️ Tic-Tac-Toe
     </a> <br>
 
@@ -106,11 +106,11 @@ Entre em contato para mais informações ou se quiser colaborar! 🚀
 ### 🌱 **Vamos Juntos!**  
 Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
 
-[Mente Maker](https://www.youtube.com/@brianlewis2)
+[Brian lewis 2](https://www.youtube.com/@brianlewis2)
 
 ---
 
-### 📊 
+ 📊 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
     media="(prefers-color-scheme: dark)"
