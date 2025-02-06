@@ -1,131 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Brianlewis!;🧑‍💻)
-<p align="center">
+## Olá! Eu sou o Matheus Fraga 🖐️
 
-😎 **Sobre mim**  
-Olá, sou o **Brian lewis**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho projetos.
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-<!--🐱CAT-->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
+## Tecnologias que eu uso no meu dia
 
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-### 🌐 **Minhas Redes Sociais**  
-Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
+💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@brianlewis2">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.instagram.com/brian_lewis_2?igsh=aHFwOHIyOHlucDV4">
-    <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
-  </a>
-  <a href="https://replit.com/@MenteMaker">
-    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
-  </a>
-  <a href="https://discord.gg/maxJ3H3z">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
-  </a>
-  <a href="https://chat.whatsapp.com/EQ4pZ9smhLHE6iSdj5emPL">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
-Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-
-
-
-
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-### 🚀 **Meus Projetos**  
-Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
-
-<div >
-  <!-- Link brian lewis -->
-  <a href="https://www.brianlewis.shop/" target="_blank" style="font-size: 24px; font-weight: bold;">
-    🌏 brian lewis 
-  </a> <br>
-   <a href="https://github.com/brianlewis2/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🐍 Python Online
-    </a> <br>
-    <a href="https://github.com/brianlewis2/JavascriptOnline" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🧑‍💻 Javascript Online
-    </a> <br>
-    <a href="https://github.com/brianlewis2/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🎮 Jogo Snake
-    </a> <br>
-    <a href="https://github.com/brianlewis2/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🕹️ Tic-Tac-Toe
-    </a> <br>
-
-</div>
-
-
-<br><br>
-
-📝 **Gostou dos meus projetos?**  
-Entre em contato para mais informações ou se quiser colaborar! 🚀
-
----
-
-### 🌱 **Vamos Juntos!**  
-Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
-
-[Brian lewis 2](https://www.youtube.com/@brianlewis2)
-
----
-
- 📊 
-<picture style="background-color: transparent; display: flex; justify-content: center;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg"
-    style="background-color: transparent"
-  />
-</picture>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+### Últimos videos:
+- [Como ZUSTAND deixa seu projeto profissional](https://youtu.be/nutJS8u4RtQ)<br/>
+- [Criando Aplicativo + IA profissional do zero](https://youtu.be/A2yPW3ZSv_A)<br/>
+- [Nunca foi tão fácil criar Dashboard com Next JS e Shadcn ui 🔥](https://youtu.be/PqRe0Q9b5QI)<br/>
+- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
