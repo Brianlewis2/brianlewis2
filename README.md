@@ -73,8 +73,7 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-### 🚀 **Meus Projetos**  
-Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
+
 
 
 <br><br>
