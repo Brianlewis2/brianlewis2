@@ -78,8 +78,8 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 
 <br><br>
 
-📝 **Gostou dos meus projetos?**  
-Entre em contato para mais informações ou se quiser colaborar! 🚀
+📝 **voce gostou do github do brian?**  
+
 
 ---
 
