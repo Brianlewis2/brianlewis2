@@ -2,7 +2,7 @@
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
+Olá, sou o **Brian**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
 
 <!--🐱CAT-->
 <p align="center">
@@ -18,7 +18,7 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
   <a href="https://www.youtube.com/@busologobrian">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
   </a>
-  <a href="https://www.instagram.com/brian_lewis_4?igsh=bXN6ZXZnbDRqOGxk">
+  <a href="https://www.instagram.com/brian_lewis_2?igsh=aHFwOHIyOHlucDV4">
     <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
   </a>
   <a href="https://replit.com/Brianlewis">
@@ -27,7 +27,7 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
   <a href="https://discord.gg/ma3z">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
   </a>
-  <a href="https://chat.whatsapp.com/EQ4pZ9smhLHE6iSdj5emPL">
+  <a href="https://chat.whatsapp.com/BAbx9kbh7l1LmvnmwunaYF">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
   </a>
 </div>
